@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/arn-calvo/static/css/main.a66d58d4.chunk.css",
+    "main.js": "/arn-calvo/static/js/main.b38d5073.chunk.js",
+    "main.js.map": "/arn-calvo/static/js/main.b38d5073.chunk.js.map",
+    "runtime-main.js": "/arn-calvo/static/js/runtime-main.dc6926c5.js",
+    "runtime-main.js.map": "/arn-calvo/static/js/runtime-main.dc6926c5.js.map",
+    "static/js/2.54387160.chunk.js": "/arn-calvo/static/js/2.54387160.chunk.js",
+    "static/js/2.54387160.chunk.js.map": "/arn-calvo/static/js/2.54387160.chunk.js.map",
+    "static/js/3.f97b9bc3.chunk.js": "/arn-calvo/static/js/3.f97b9bc3.chunk.js",
+    "static/js/3.f97b9bc3.chunk.js.map": "/arn-calvo/static/js/3.f97b9bc3.chunk.js.map",
+    "index.html": "/arn-calvo/index.html",
+    "static/css/main.a66d58d4.chunk.css.map": "/arn-calvo/static/css/main.a66d58d4.chunk.css.map",
+    "static/js/2.54387160.chunk.js.LICENSE.txt": "/arn-calvo/static/js/2.54387160.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc6926c5.js",
+    "static/js/2.54387160.chunk.js",
+    "static/css/main.a66d58d4.chunk.css",
+    "static/js/main.b38d5073.chunk.js"
+  ]
+}
