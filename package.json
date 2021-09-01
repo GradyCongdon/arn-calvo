@@ -1,7 +1,7 @@
 {
   "name": "arn-calvo",
   "version": "0.1.0",
-  "homepage: "https://gradycongdon.github.io/arn-calvo/",
+  "homepage": "https://gradycongdon.github.io/arn-calvo/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
